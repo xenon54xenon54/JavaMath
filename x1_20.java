@@ -1,4 +1,3 @@
-
 public class x1_20 {
     public static void print1_20() {
         for (int i = 0; i <= 20; i = i + 1) {
