@@ -1,6 +1,6 @@
 public class xBrute {
     public static boolean x1e(int x) {
-        return ((5*x+4)==(9));
+        return ((x)==(((12-3))));
     }
     public static void x1() {
         for (int i = -200; i < 200; i = i + (1)) {
